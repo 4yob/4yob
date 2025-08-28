@@ -20,8 +20,9 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, experimentos
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub de 4yob](https://github-readme-stats.vercel.app/api?username=4yob&show_icons=true&count_private=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=4yob&layout=compact&theme=radical)
+![Estatísticas do GitHub de 4yob](https://github-readme-stats.vercel.app/api?username=4yob&show_icons=true&count_private=true&theme=white)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=4yob&theme=light)
+
 
 ## 💡 Projetos em destaque
 
@@ -37,5 +38,6 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, experimentos
 ---
 
 ⭐️ Sinta-se à vontade para explorar meus repositórios, dar sugestões ou abrir issues/pull requests!
+
 
 
