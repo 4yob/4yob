@@ -24,21 +24,34 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, experimentos
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=4yob&theme=light)
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=4yob&theme=minimal)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-
 ## 💡 Projetos em destaque
 
-- [GLAMSYNC](https://github.com/4yob/projetos-app-api.git) — API direcionada ao projeto de App FullStack GlamSync.
-- [SITE MATÉRIA INGLÊS](https://github.com/juguarnieri/site-ingles.git) — Site de linguagem HTML e CSS para o projeto de portal educacional online da matéria de inglês. 
+**GLAMSYNC**  
+> Aplicativo FullStack: Moda que conecta, estilo que impacta. <br>
+> [⚙ GlamSync API](https://github.com/4yob/projetos-app-api.git). <br>
+> [📱 GlamSync Mobile](https://github.com/brunasavelli/GlamSync-Mobile.git). <br>
+> [🖥 GlamSync Front-End](https://github.com/souzabweatriz/GlamSync-FrontEnd.git).
+
+**PORTAL EDUCACIONAL**
+> Site em HTML, CSS e JavaScript para um portal de educação de Inglês. <br>
+> [📚 Portal Educacional Inglês](https://github.com/juguarnieri/site-ingles.git).
 
 ## 📬 Entre em contato
 
-- LinkedIn: 
-[in/barrosalejandra](https://www.linkedin.com/in/barrosalejandra)
-- E-mail: alejandra.barros@aluno.senai.br
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barrosalejandra/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandra.barros@aluno.senai.br)
 
 ---
 
 ⭐️ Sinta-se à vontade para explorar meus repositórios, dar sugestões ou abrir issues/pull requests!
+
+<br>
+
+<blockquote>
+  <i>🎸 “Imaginação é quando a inteligência se diverte.” <br>
+  - Rita Lee</i>
+</blockquote>
+
 
 
 
