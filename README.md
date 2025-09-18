@@ -20,8 +20,6 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, experimentos
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub de 4yob](https://github-readme-stats.vercel.app/api?username=4yob&show_icons=true&count_private=true&theme=white)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=4yob&theme=light)
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=4yob&theme=minimal)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## 💡 Projetos em destaque
@@ -51,6 +49,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, experimentos
   <i>🎸 “Imaginação é quando a inteligência se diverte.” <br>
   - Rita Lee</i>
 </blockquote>
+
 
 
 
